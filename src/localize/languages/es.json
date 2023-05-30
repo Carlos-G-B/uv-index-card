@@ -1,0 +1,17 @@
+{
+  "common": {
+    "version": "Versión",
+    "invalid_configuration": "Configuración invalida",
+    "show_warning": "Mostar alertas",
+    "show_error": "Mostrar errores",
+    "uv_index": "Indice UV",
+    "uv_risk": "Riesgo UV"
+  },
+  "uv_levels": {
+    "low": "Bajo",
+    "moderate": "Moderado",
+    "high": "Alto",
+    "very_high": "Muy alto",
+    "extreme": "Extremo"
+  }
+}
